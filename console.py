@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-
-"""For defining the AirBnB console"""
+"""
+For defining the AirBnB console
+"""
 import re
 from shlex import split
 import cmd
